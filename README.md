@@ -1,7 +1,7 @@
 # Assignment 2 - Advanced CSS (Flexbox & Grid)
 
 **Student:** Kaussar Meirambekkyzy  
-**Group:** [ТВОЯ ГРУППА]
+**Group:** IT-2513
 
 ---
 
@@ -14,7 +14,7 @@ In the first part, I worked with Flexbox for both the header and the cards.
 
 ![Task 0 and Task 1](screenshots/task1.png)
 
----
+
 
 ## Part 2. Grid System
 
@@ -33,7 +33,7 @@ Here I built a 3x3 photo gallery showcasing Margaery Tyrell's dresses and outfit
 
 ![Task 3](screenshots/task3.png)
 
----
+
 
 ## Part 3. Combining Flexbox & Grid
 
@@ -46,7 +46,7 @@ For the final task, I combined both layout models to create a portfolio page for
 
 ![Task 4](screenshots/task4.png)
 
----
+
 
 ## Work Process Summary
 1. Set up basic resets and box-sizing border-box.
